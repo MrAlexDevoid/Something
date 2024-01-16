@@ -6,27 +6,27 @@ This comment must remain at the top in all cases - it will not be visible on fin
   
  
 body {
-background: url("http://i.imgur.com/RiwRxDz.jpg") fixed;
+background: url("https://i.imgur.com/MSia567.jpg") fixed;
 background-repeat: no-repeat;
 background-size: cover;
-color: #fff;
+color: #000;
 }
  
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
-color: #fff;
+color: #000;
 }
  
 h1, h3 , .sidebar h3 {
 font-family: Arial !important;
 text-align: left;
-color: #fff;
+color: #000;
 border-bottom: 1px solid #000;
 }
  
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #1D53A9;
-color: #fff;
+background: #C4F0CD;
+color: #000;
 border: 1px solid #000;
 text-shadow: none;
 font-weight: bold;
@@ -38,49 +38,49 @@ border-radius: 5px;
 /* Links */
   
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
-color: #fff;
+color: #000000;
 }
   
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
-color: #fff;
+color: #000000;
 }
   
 /* Topbar */
   
 .topbar {
-background: rgb(29, 83, 189);
+background: rgb(200, 245, 212);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 }
  
 .badge {
-background: rgb(29, 83, 189);
+background: rgb(200, 245, 212);
 border: 1px solid #000;
 }
   
 /* Navigational Bar */
   
 .main {
-background: rgba(29, 83, 189, 0.46);
+background: rgba(200, 245, 212, 0.46);
 border: 1px solid #000;
 box-shadow: none;
 }
   
 .navbar {
-background: #1D53A9;
+background: #C4F0CD;
 border-bottom: 1px solid #000;
-color: #fff;
+color: #000;
 }
   
 .navbar-default .navbar-nav > li > a {
-color: #fff;
+color: #000;
 }
   
 .navbar-default .navbar-nav li a:hover {
-color: #fff;
-background: #1D53A9;
+color: #000;
+background: #C4F0CD;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -90,21 +90,21 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: rgba(29, 83, 189, 0.36);
+background: rgba(200, 245, 212, 0.36);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
-color: #fff;
+color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(29, 83, 189);
+background: rgb(200, 245, 212);
 border: 1px solid #000;
 box-shadow: none;    
 }
   
 .progress-bar {
-background: #4b0082;
+background: #FFB3AC;
 }
   
 .progress {
@@ -116,7 +116,7 @@ border: 1px solid #000;
 /* Chat */
   
 .chat_light, .chat_dark {
-background: rgb(29, 83, 189);
+background: rgb(200, 245, 212);
 font-size: 11px;
 color: #000;
 }
@@ -130,30 +130,30 @@ background: none;
 }
  
 .alert-danger {
-color: #fff;
-background: rgb(29, 83, 189);
+color: #000;
+background: rgb(200, 245, 212);
 border: 1px solid #000;
 }
  
 .alert-success {
-color: #fff;
-background: rgb(29, 83, 189);
+color: #000;
+background: rgb(200, 245, 212);
 border: 1px solid #000;
 }
  
 .breadcrumb {
-background:  #1D53A9;
+background:  #C4F0CD;
 font-size: 13px;
 border: 1px solid #000;
 }
   
 .breadcrumb>.active {
-color: #fff;
+color: #000;
 }
   
 h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
-color: #fff;
+color: #000;
 }
   
 .col-md-9 {
@@ -171,7 +171,7 @@ border: 1px solid #000;
   
 .table, .item {
 border: 1px solid #000;
-background: #1D53A9;
+background: #C4F0CD;
 border-collapse: separate;
 }
  
@@ -182,28 +182,27 @@ border: 0px solid #000;
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #4b0082;
-color: #fff;
+background: #FFB3AC;
+color: #000;
 }
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #4b0082;
-color: #fff;
+background: #FFB3AC;
+color: #000;
 }
  
 .table .left {
 border: 1px solid #000;
-background: #4b0082;
-color: #fff;
+background: #FFB3AC;
+color: #000;
 }
  
 .inner-table .right {
-background: #4b0082;
+background: #EEF8E3;
 border: 1px solid #000;
 border-left: none;
 }
- 
  
  
 
