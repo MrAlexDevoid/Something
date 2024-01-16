@@ -118,7 +118,7 @@ border: 1px solid #000;
 .chat_light, .chat_dark {
 background: rgb(29, 83, 189);
 font-size: 11px;
-color: #fff;
+color: #000;
 }
  
 .chatContainer {
